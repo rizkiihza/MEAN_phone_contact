@@ -1,0 +1,28 @@
+{
+  "name": "wbd3",
+  "version": "1.0.0",
+  "description": "tugas besar wbd3",
+  "main": "app.js",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizkiihza/wbd3.git"
+  },
+  "keywords": [
+    "wbd"
+  ],
+  "author": "rizki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rizkiihza/wbd3/issues"
+  },
+  "homepage": "https://github.com/rizkiihza/wbd3#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.2"
+  }
+}
